@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Full-stack and cloud-based applications with a focus on real-world impact.<br><br>👯 I’m looking to collaborate on  <br>Cloud computing, AI-powered solutions, and innovative web development projects.<br><br>🤝 I’m looking for help with  <br>Advanced system design, scalable cloud architectures, and DevOps best practices.<br><br>🌱 I’m currently learning  <br>Cloud computing (Azure & AWS), AI integrations, and embedded systems development.<br><br>💬 Ask me about  <br>C++, Java, Python, React.js, Node.js, Azure, Docker, and embedded systems.<br><br>⚡ Fun fact  <br>Jury Award Winner at JPMorgan Chase & Co.’s Code for Good Hackathon 2025 🚀
+# About Me:
+I’m currently working on  <br>Full-stack and cloud-based applications with a focus on real-world impact.<br><br> I’m looking to collaborate on  <br>Cloud computing, AI-powered solutions, and innovative web development projects.<br><br> I’m looking for help with  <br>Advanced system design, scalable cloud architectures, and DevOps best practices.<br><br> I’m currently learning  <br>Cloud computing (Azure & AWS), AI integrations, and embedded systems development.<br><br> Ask me about  <br>C++, Java, Python, React.js, Node.js, Azure, Docker, and embedded systems.<br><br> Fun fact  <br>Jury Award Winner at JPMorgan Chase & Co.’s Code for Good Hackathon 2025 
 
 
 ## 🌐 Socials:
